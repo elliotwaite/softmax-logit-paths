@@ -6,6 +6,6 @@ This code if from my YouTube video:
 
 **Softmax Function Explained In Depth with 3D Visuals**
 
-https://www.youtube.com/watch?v=ytbYRIN0N4g
+https://youtu.be/ytbYRIN0N4g
 
-[<img src="https://img.youtube.com/vi/ytbYRIN0N4g/hqdefault.jpg">](https://www.youtube.com/watch?v=ytbYRIN0N4g)
+[<img src="https://img.youtube.com/vi/ytbYRIN0N4g/hqdefault.jpg">](https://youtu.be/ytbYRIN0N4g)
